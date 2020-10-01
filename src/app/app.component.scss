@@ -1,11 +1,3 @@
-/*html { height: 100%; margin: 0; box-sizing: border-box; }
-body {
-    min-height: 100%;
-    max-width: 1280px;
-    font: 1rem/1.5 sans-serif;
-    margin: 0 auto;
-    }*/
-
 .container {
     header {
         background-color: #f3c600;
@@ -58,8 +50,8 @@ body {
             margin: 0.2%;
             padding: 2px;
             figure {
-               /* margin: 2%;*/
-               margin: 0;
+                /* margin: 2%;*/
+                margin: 0;
                 img {
                     width: 300px;
                     height: 300px;
@@ -68,8 +60,8 @@ body {
                     padding-right: 1.2%;
                 }
             }
-            .text{
-                margin:2%;
+            .text {
+                margin: 2%;
             }
         }
     }
