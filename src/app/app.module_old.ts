@@ -2,17 +2,17 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
-import { FlexLayoutModule } from '@angular/flex-layout';
+import { FlexLayoutModule } from 'ng-flex-layout';
 
 @NgModule({
   declarations: [
-    AppComponent
+    /*AppComponent*/
   ],
   imports: [
     BrowserModule,
     FlexLayoutModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [/*AppComponent*/]
 })
 export class AppModule { }
